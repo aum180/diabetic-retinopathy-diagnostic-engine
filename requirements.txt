@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+numpy<2.0.0
+opencv-python-headless
+pillow
+scikit-learn
+matplotlib
+seaborn
+pytest
+fastapi
+uvicorn
+python-multipart
+mlflow
